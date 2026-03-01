@@ -9,9 +9,9 @@
 
 ## ⚡ Professional Summary
 
-I am a QA Engineer with 3+ years strong experience in designing scalable, maintainable, and production-ready automation frameworks.
+I am a QA Engineer with over 3 years of strong experience in designing scalable, maintainable, and production-ready manual and automation testing frameworks.
 
-My approach goes beyond test execution — I focus on **Manual and Automation Testing**.
+My approach goes beyond test execution — I focus on building effective testing strategies, improving test coverage, and ensuring product stability through both manual and automated testing.
 
 I believe automation is not just about writing scripts, but about building a sustainable quality ecosystem.
 
