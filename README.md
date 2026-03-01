@@ -91,13 +91,17 @@ A collection of automation and quality engineering projects covering API, Web, a
   Simple CRUD API automation project using Katalon Studio.  
   [![Repo](https://img.shields.io/badge/GitHub-View%20Repository-black?style=flat-square&logo=github)](https://github.com/hasbijr/Katalon-API-Testing)
 
-- **Playwright Automation Framework**  
+- **Playwright UI Automation Framework**  
   End-to-end web automation using Playwright + TypeScript with POM architecture.  
   [![Repo](https://img.shields.io/badge/GitHub-View%20Repository-black?style=flat-square&logo=github)](https://github.com/hasbijr/playwright-saucedemo-testing)
 
+- **Playwright API Automation Framework**  
+  API automation testing using Playwright + JavaScript.  
+  [![Repo](https://img.shields.io/badge/GitHub-View%20Repository-black?style=flat-square&logo=github)](https://github.com/hasbijr/playwright-api-testing)
+
 - **Maestro Mobile Automation Framework)**  
   Cross-platform mobile automation framework with reusable test flows.  
-  [![Repo](https://img.shields.io/badge/GitHub-View%20Repository-black?style=flat-square&logo=github)](https://github.com/hasbijr/REPO_NAME)
+  [![Repo](https://img.shields.io/badge/GitHub-View%20Repository-black?style=flat-square&logo=github)](https://github.com/hasbijr/maestro-ui-testing)
 
 ---
 
