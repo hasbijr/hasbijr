@@ -21,9 +21,10 @@ I believe automation is not just about writing scripts, but about building a sus
 
 ## 🏗 Core Expertise
 
-- ✅ End-to-End Automation Framework Design (Playwright + TypeScript)
+- ✅ End-to-End Automation Framework Design (Playwright + Javascript/TypeScript)
 - ✅ Page Object Model (POM) & BDD Architecture
-- ✅ API Testing & Validation (Postman, REST validation, SQL verification)
+- ✅ API Testing
+- ✅ Mobile Automation (Maestro)
 - ✅ CI/CD Integration & Pipeline Optimization
 - ✅ Test Data Strategy & Database Validation
 - ✅ Risk-based Testing & Regression Strategy
@@ -40,6 +41,7 @@ I believe automation is not just about writing scripts, but about building a sus
 ![Appium](https://img.shields.io/badge/-Appium-%23662D91?style=flat-square&logo=appium&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-%23FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![JMeter](https://img.shields.io/badge/-JMeter-%23D22128?style=flat-square&logo=apache-jmeter&logoColor=white)
+![Maestro](https://img.shields.io/badge/-Maestro-%23000000?style=flat-square)
 
 ### 💻 Programming & Backend Awareness
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%23007ACC?style=flat-square&logo=typescript&logoColor=white)
