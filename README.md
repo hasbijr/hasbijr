@@ -1,16 +1,109 @@
-## Hi there 👋
+# Hi there, I'm Muhammad Hasbi 👋
+### Software QA Automation Engineer
 
-<!--
-**hasbijr/hasbijr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://img.shields.io/badge/Focus-Test%20Automation%20Architecture-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Specialty-Scalable%20E2E%20Testing-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Domain-Web%20%7C%20API%20%7C%20Backend-orange?style=flat-square" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Professional Summary
+
+I am a QA Engineer with 3+ years strong experience in designing scalable, maintainable, and production-ready automation frameworks.
+
+My approach goes beyond test execution — I focus on **Manual and Automation Testing**.
+
+I believe automation is not just about writing scripts, but about building a sustainable quality ecosystem.
+
+---
+
+## 🏗 Core Expertise
+
+- ✅ End-to-End Automation Framework Design (Playwright + TypeScript)
+- ✅ Page Object Model (POM) & BDD Architecture
+- ✅ API Testing & Validation (Postman, REST validation, SQL verification)
+- ✅ CI/CD Integration & Pipeline Optimization
+- ✅ Test Data Strategy & Database Validation
+- ✅ Risk-based Testing & Regression Strategy
+- ✅ Performance & Scalability Awareness
+- ✅ Backend & Transaction-Level Validation
+
+---
+
+## 🛠 Technology Stack
+
+### 🧪 Automation & Testing
+![Playwright](https://img.shields.io/badge/-Playwright-%232EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/-Selenium-%2343B02A?style=flat-square&logo=selenium&logoColor=white)
+![Appium](https://img.shields.io/badge/-Appium-%23662D91?style=flat-square&logo=appium&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-%23FF6C37?style=flat-square&logo=postman&logoColor=white)
+![JMeter](https://img.shields.io/badge/-JMeter-%23D22128?style=flat-square&logo=apache-jmeter&logoColor=white)
+
+### 💻 Programming & Backend Awareness
+![TypeScript](https://img.shields.io/badge/-TypeScript-%23007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-%230074D9?style=flat-square&logo=postgresql&logoColor=white)
+
+### 🚀 DevOps & Delivery
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-%232088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## 🚀 Highlighted Work
+
+### 🏗 Scalable Web Automation Framework
+Designed and implemented a robust automation framework using **Playwright + TypeScript** with:
+
+- POM-based modular architecture
+- Reusable utilities & fixtures
+- Dynamic test data handling
+- Integrated reporting system
+- CI/CD-ready structure
+
+Result: Reduced regression testing time and improved release stability and confidence.
+
+---
+
+### 🔌 API & Database Validation Strategy
+Built API validation workflows combining:
+
+- REST API verification
+- SQL-level data validation
+- Aggregation & transaction verification
+- Negative case & boundary validation
+- Data consistency & integrity checking
+
+Result: Increased backend reliability and minimized production data issues.
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🎯 Professional Philosophy
+
+> “Automation without architecture becomes technical debt.  
+> Quality without strategy becomes luck.”
+
+---
+
+## 🤝 Let’s Connect
+
+- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+- 📧 Email: your-email@example.com
+- 🌐 Portfolio: (if available)
+
+---
+
+⭐ Open to opportunities in Automation Engineering, QA Leadership, and Quality Strategy.
