@@ -80,66 +80,67 @@ Built API validation workflows combining:
 
 Result: Increased backend reliability and minimized production data issues.
 
----
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🧪 QA Automation Projects
+## 🧪 QA Automation Projects
 
-A collection of automation and quality engineering projects covering API, Web, and mobile testing frameworks.
+### 🔹 Katalon API Testing Framework  
+Simple CRUD API automation project using **Katalon Studio**, structured with modular test cases and reusable components.
 
-- **Katalon  Testing Framework**  
-  Simple CRUD API automation project using Katalon Studio.  
-  [![Repo](https://img.shields.io/badge/GitHub-View%20Repository-black?style=flat-square&logo=github)](https://github.com/hasbijr/Katalon-API-Testing)
-
-- **Playwright UI Automation Framework**  
-  End-to-end web automation using Playwright + TypeScript with POM architecture.  
-  [![Repo](https://img.shields.io/badge/GitHub-View%20Repository-black?style=flat-square&logo=github)](https://github.com/hasbijr/playwright-saucedemo-testing)
-
-- **Playwright API Automation Framework**  
-  API automation testing using Playwright + JavaScript.  
-  [![Repo](https://img.shields.io/badge/GitHub-View%20Repository-black?style=flat-square&logo=github)](https://github.com/hasbijr/playwright-api-testing)
-
-- **Maestro Mobile Automation Framework)**  
-  Cross-platform mobile automation framework with reusable test flows.  
-  [![Repo](https://img.shields.io/badge/GitHub-View%20Repository-black?style=flat-square&logo=github)](https://github.com/hasbijr/maestro-ui-testing)
+[![Repo](https://img.shields.io/badge/GitHub-Katalon%20API%20Testing-black?style=flat-square&logo=github)](https://github.com/hasbijr/Katalon-API-Testing)
 
 ---
 
-### 🌐 Application Projects
+### 🔹 Playwright UI Automation Framework  
+End-to-end web automation using **Playwright + TypeScript** with POM architecture and structured test design.
 
-A collection of web applications demonstrating frontend and backend engineering capabilities.
-
-- **Dialogue System using Python for Smart Car (IoT Project)**  
-  Responsive web application with API integration and authentication system.  
-  [![Repo](https://img.shields.io/badge/GitHub-View%20Repository-black?style=flat-square&logo=github)](https://github.com/hasbijr/dialogue-system-FSM)
-
-- **Web App Project 2**  
-  Full-stack application with database integration and clean architecture structure.  
-  [![Repo](https://img.shields.io/badge/GitHub-View%20Repository-black?style=flat-square&logo=github)](https://github.com/hasbijr/REPO_NAME)
-
-- **Web App Project 3**  
-  Frontend-focused project showcasing UI/UX implementation and state management.  
-  [![Repo](https://img.shields.io/badge/GitHub-View%20Repository-black?style=flat-square&logo=github)](https://github.com/hasbijr/REPO_NAME)
+[![Repo](https://img.shields.io/badge/GitHub-Playwright%20UI%20Automation-black?style=flat-square&logo=github)](https://github.com/hasbijr/playwright-saucedemo-testing)
 
 ---
 
-### 🌐 
+### 🔹 Playwright API Automation Framework  
+REST API automation testing using **Playwright + JavaScript** with request validation and response assertions.
 
-A collection of web applications demonstrating frontend and backend engineering capabilities.
-
-- **Web App Project 1**  
-  Responsive web application with API integration and authentication system.  
-  [![Repo](https://img.shields.io/badge/GitHub-View%20Repository-black?style=flat-square&logo=github)](https://github.com/hasbijr/REPO_NAME)
-
-- **Web App Project 2**  
-  Full-stack application with database integration and clean architecture structure.  
-  [![Repo](https://img.shields.io/badge/GitHub-View%20Repository-black?style=flat-square&logo=github)](https://github.com/hasbijr/REPO_NAME)
-
-- **Web App Project 3**  
-  Frontend-focused project showcasing UI/UX implementation and state management.  
-  [![Repo](https://img.shields.io/badge/GitHub-View%20Repository-black?style=flat-square&logo=github)](https://github.com/hasbijr/REPO_NAME)
+[![Repo](https://img.shields.io/badge/GitHub-Playwright%20API%20Automation-black?style=flat-square&logo=github)](https://github.com/hasbijr/playwright-api-testing)
 
 ---
+
+### 🔹 Maestro Mobile Automation Framework  
+Cross-platform mobile UI automation using **Maestro**, designed for reusable flows and structured test scenarios.
+
+[![Repo](https://img.shields.io/badge/GitHub-Maestro%20Mobile%20Automation-black?style=flat-square&logo=github)](https://github.com/hasbijr/maestro-ui-testing)
+
+---
+
+### 🔹 Cypress UI Automation (OpenMRS)  
+Basic end-to-end web automation using **Cypress** for OpenMRS application testing.
+
+[![Repo](https://img.shields.io/badge/GitHub-Cypress%20UI%20Automation-black?style=flat-square&logo=github)](https://github.com/hasbijr/playwright-saucedemo-testing)
+
+---
+
+## 🌐 Software & Engineering Projects
+
+### 🔹 Dialogue System for Smart Car (IoT Project)  
+Python-based dialogue system using Finite State Machine (FSM) architecture for smart car communication logic.
+
+[![Repo](https://img.shields.io/badge/GitHub-Dialogue%20System%20FSM-black?style=flat-square&logo=github)](https://github.com/hasbijr/dialogue-system-FSM)
+
+---
+
+### 🔹 Web Application Projects  
+A collection of web applications demonstrating frontend and backend engineering capabilities:
+
+- Responsive UI implementation
+- API integration
+- Authentication handling
+- Database connectivity
+- Clean architecture structure
+
+[![View All Web Projects](https://img.shields.io/badge/GitHub-View%20Web%20Repositories-black?style=flat-square&logo=github)](https://github.com/hasbijr?tab=repositories)
+
+---
+
 ## 🎯 Professional Philosophy
 
 > “Automation without architecture becomes technical debt.  
