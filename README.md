@@ -85,8 +85,8 @@ Result: Increased backend reliability and minimized production data issues.
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hasbijr&show_icons=true&theme=tokyonight&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasbijr&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -100,10 +100,8 @@ Result: Increased backend reliability and minimized production data issues.
 
 ## 🤝 Let’s Connect
 
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-- 📧 Email: your-email@example.com
-- 🌐 Portfolio: (if available)
+- 💼 LinkedIn: https://linkedin.com/in/hasbijrtm
 
 ---
 
-⭐ Open to opportunities in Automation Engineering, QA Leadership, and Quality Strategy.
+⭐ Open to opportunities in Manual and Automation Testing, with strong interest in expanding into Frontend and Backend Engineering.
