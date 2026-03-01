@@ -87,21 +87,39 @@ Result: Increased backend reliability and minimized production data issues.
 
 A collection of automation and quality engineering projects covering API, Web, and mobile testing frameworks.
 
-- **Katalon API Testing Framework**  
+- **Katalon  Testing Framework**  
   Simple CRUD API automation project using Katalon Studio.  
   [![Repo](https://img.shields.io/badge/GitHub-View%20Repository-black?style=flat-square&logo=github)](https://github.com/hasbijr/Katalon-API-Testing)
 
-- **Playwright Web Automation Framework**  
+- **Playwright Automation Framework**  
   End-to-end web automation using Playwright + TypeScript with POM architecture.  
-  [![Repo](https://img.shields.io/badge/GitHub-View%20Repository-black?style=flat-square&logo=github)](https://github.com/hasbijr/REPO_NAME)
+  [![Repo](https://img.shields.io/badge/GitHub-View%20Repository-black?style=flat-square&logo=github)](https://github.com/hasbijr/playwright-saucedemo-testing)
 
-- **Mobile Automation (Maestro / Appium)**  
+- **Maestro Mobile Automation Framework)**  
   Cross-platform mobile automation framework with reusable test flows.  
   [![Repo](https://img.shields.io/badge/GitHub-View%20Repository-black?style=flat-square&logo=github)](https://github.com/hasbijr/REPO_NAME)
 
 ---
 
-### 🌐 Web & Application Projects
+### 🌐 Application Projects
+
+A collection of web applications demonstrating frontend and backend engineering capabilities.
+
+- **Dialogue System using Python for Smart Car (IoT Project)**  
+  Responsive web application with API integration and authentication system.  
+  [![Repo](https://img.shields.io/badge/GitHub-View%20Repository-black?style=flat-square&logo=github)](https://github.com/hasbijr/dialogue-system-FSM)
+
+- **Web App Project 2**  
+  Full-stack application with database integration and clean architecture structure.  
+  [![Repo](https://img.shields.io/badge/GitHub-View%20Repository-black?style=flat-square&logo=github)](https://github.com/hasbijr/REPO_NAME)
+
+- **Web App Project 3**  
+  Frontend-focused project showcasing UI/UX implementation and state management.  
+  [![Repo](https://img.shields.io/badge/GitHub-View%20Repository-black?style=flat-square&logo=github)](https://github.com/hasbijr/REPO_NAME)
+
+---
+
+### 🌐 
 
 A collection of web applications demonstrating frontend and backend engineering capabilities.
 
