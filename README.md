@@ -83,18 +83,41 @@ Result: Increased backend reliability and minimized production data issues.
 ---
 ## 🚀 Featured Projects
 
-### 🔎 Katalon API Testing Framework
+### 🧪 QA Automation Projects
 
-Production-style API automation project using **Katalon Studio**.
+A collection of automation and quality engineering projects covering API, Web, and mobile testing frameworks.
 
-- Structured test cases and test suites
-- API object repository management
-- Modular and reusable test components
-- Scalable project structure for regression testing
+- **Katalon API Testing Framework**  
+  Simple CRUD API automation project using Katalon Studio.  
+  [![Repo](https://img.shields.io/badge/GitHub-View%20Repository-black?style=flat-square&logo=github)](https://github.com/hasbijr/Katalon-API-Testing)
 
-[![GitHub Repository](https://img.shields.io/badge/GitHub-Katalon%20API%20Testing-black?style=flat-square&logo=github)](https://github.com/hasbijr/Katalon-API-Testing)
+- **Playwright Web Automation Framework**  
+  End-to-end web automation using Playwright + TypeScript with POM architecture.  
+  [![Repo](https://img.shields.io/badge/GitHub-View%20Repository-black?style=flat-square&logo=github)](https://github.com/hasbijr/REPO_NAME)
+
+- **Mobile Automation (Maestro / Appium)**  
+  Cross-platform mobile automation framework with reusable test flows.  
+  [![Repo](https://img.shields.io/badge/GitHub-View%20Repository-black?style=flat-square&logo=github)](https://github.com/hasbijr/REPO_NAME)
+
 ---
 
+### 🌐 Web & Application Projects
+
+A collection of web applications demonstrating frontend and backend engineering capabilities.
+
+- **Web App Project 1**  
+  Responsive web application with API integration and authentication system.  
+  [![Repo](https://img.shields.io/badge/GitHub-View%20Repository-black?style=flat-square&logo=github)](https://github.com/hasbijr/REPO_NAME)
+
+- **Web App Project 2**  
+  Full-stack application with database integration and clean architecture structure.  
+  [![Repo](https://img.shields.io/badge/GitHub-View%20Repository-black?style=flat-square&logo=github)](https://github.com/hasbijr/REPO_NAME)
+
+- **Web App Project 3**  
+  Frontend-focused project showcasing UI/UX implementation and state management.  
+  [![Repo](https://img.shields.io/badge/GitHub-View%20Repository-black?style=flat-square&logo=github)](https://github.com/hasbijr/REPO_NAME)
+
+---
 ## 🎯 Professional Philosophy
 
 > “Automation without architecture becomes technical debt.  
