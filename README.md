@@ -81,13 +81,12 @@ Built API validation workflows combining:
 Result: Increased backend reliability and minimized production data issues.
 
 ---
+## 🚀 Featured Projects
 
-## 📈 GitHub Analytics
+### 🏗 Web Automation Framework
+Scalable automation framework built with Playwright + TypeScript.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasbijr&show_icons=true&theme=tokyonight&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasbijr&layout=compact&theme=tokyonight" />
-</p>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=repository-name&theme=tokyonight)](https://github.com/USERNAME/repository-name)
 
 ---
 
