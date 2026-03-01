@@ -2,9 +2,7 @@
 ### Software QA Automation Engineer
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Focus-Test%20Automation%20Architecture-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Specialty-Scalable%20E2E%20Testing-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/Domain-Web%20%7C%20API%20%7C%20Backend-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Sofware%20Quality%20Assurance%20Engineer-blue?style=flat-square" />
 </p>
 
 ---
