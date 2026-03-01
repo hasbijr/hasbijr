@@ -1,5 +1,5 @@
-# Hi there, I'm Muhammad Hasbi 👋
-### Software QA Automation Engineer
+# Hi there, I'm Muhammad Hasbi Juri Utama 👋
+### Software Quality Assurance Engineer
 
 <p align="left">
   <img src="https://img.shields.io/badge/Focus-Sofware%20Quality%20Assurance%20Engineer-blue?style=flat-square" />
@@ -83,11 +83,16 @@ Result: Increased backend reliability and minimized production data issues.
 ---
 ## 🚀 Featured Projects
 
-### 🏗 Web Automation Framework
-Scalable automation framework built with Playwright + TypeScript.
+### 🔎 Katalon API Testing Framework
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=repository-name&theme=tokyonight)](https://github.com/USERNAME/repository-name)
+Production-style API automation project using **Katalon Studio**.
 
+- Structured test cases and test suites
+- API object repository management
+- Modular and reusable test components
+- Scalable project structure for regression testing
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Katalon%20API%20Testing-black?style=flat-square&logo=github)](https://github.com/hasbijr/Katalon-API-Testing)
 ---
 
 ## 🎯 Professional Philosophy
