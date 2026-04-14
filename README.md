@@ -9,7 +9,7 @@
 
 ## ⚡ Professional Summary
 
-I am a QA Engineer with over 3 years of strong experience in designing scalable, maintainable, and production-ready manual and automation testing frameworks.
+I am a QA Engineer with over 3+ years of strong experience in designing scalable, maintainable, and production-ready manual and automation testing frameworks.
 
 My approach goes beyond test execution — I focus on building effective testing strategies, improving test coverage, and ensuring product stability through both manual and automated testing.
 
@@ -19,17 +19,80 @@ I believe automation is not just about writing scripts, but about building a sus
 
 ## 🏗 Core Expertise
 
-- ✅ End-to-End Automation Framework Design (Playwright + Javascript/TypeScript)
-- ✅ Page Object Model (POM) & BDD Architecture
-- ✅ API Testing
-- ✅ Mobile Automation (Maestro)
-- ✅ CI/CD Integration & Pipeline Optimization
-- ✅ Test Data Strategy & Database Validation
-- ✅ Risk-based Testing & Regression Strategy
-- ✅ Performance & Scalability Awareness
-- ✅ Backend & Transaction-Level Validation
+### 🧪 Testing Capabilities
+- Manual Testing (Functional, Regression, Exploratory, UAT)
+- Automation Testing (Web, API, Mobile)
+- API Testing (REST, Integration, Contract Validation)
+- End-to-End Testing Strategy
+- Regression & Risk-based Testing
+
+### 🏗 Test Architecture & Design
+- Automation Framework Design (Playwright, Cypress)
+- Page Object Model (POM)
+- BDD (Gherkin, Scenario Design)
+- Test Case Design & Test Strategy Documentation
+
+### 🔍 Data & Backend Validation
+- SQL & Database Validation
+- Transaction-level Testing
+- Data Integrity & Consistency Validation
+
+### 🚀 DevOps & Delivery
+- CI/CD Integration (GitHub Actions)
+- Pipeline Optimization
+- Docker-based Test Execution
+
+### ⚡ Performance Awareness
+- Basic Performance Testing (JMeter)
+- Scalability & Bottleneck Awareness
 
 ---
+
+## 🧠 Product Knowledge
+
+### 🏢 HRIS System — *Kantorku (Dealls)*
+
+Hands-on experience testing HRIS platform covering employee lifecycle management.
+
+**Key Modules:**
+- Employee Management (Profile, Roles, Organizational Structure)
+- Attendance & Time Tracking
+- Leave & Permission Management
+- Payroll & Compensation
+- Performance Management
+- Document & Contract Management
+
+---
+
+### 💼 Job Portal — *Dealls Jobs*
+
+Experience validating job marketplace platform with focus on user journey and data flow.
+
+**Key Modules:**
+- Authentication & User Management (Job Seeker / Recruiter)
+- Job Posting & Vacancy Management
+- Job Search & Filtering
+- Application & Candidate Tracking
+- Resume / CV Management
+- Employer Dashboard & Analytics
+
+---
+
+### 🏥 Hospital Management Information System (HMIS) — *ePuskesmas (Infokes Indonesia)*
+
+Experience in healthcare system testing with complex workflows and regulatory sensitivity.
+
+**Key Modules:**
+- Patient Registration & Medical Records (EMR)
+- Polyclinic / Doctor Examination (Pelayanan)
+- Pharmacy & Prescription Management
+- Laboratory & Result Management
+- Billing & Payment
+- Reporting & Health Analytics
+- BPJS / Insurance Integration
+
+---
+
 
 ## 🛠 Technology Stack
 
@@ -50,6 +113,7 @@ I believe automation is not just about writing scripts, but about building a sus
 ### 🚀 DevOps & Delivery
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-%232088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=flat-square&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-%23D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
