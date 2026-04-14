@@ -25,6 +25,7 @@ I believe automation is not just about writing scripts, but about building a sus
 - API Testing (REST, Integration, Contract Validation)
 - End-to-End Testing Strategy
 - Regression & Risk-based Testing
+- Performance Testing
 
 ### 🏗 Test Architecture & Design
 - Automation Framework Design (Playwright, Cypress)
@@ -38,13 +39,9 @@ I believe automation is not just about writing scripts, but about building a sus
 - Data Integrity & Consistency Validation
 
 ### 🚀 DevOps & Delivery
-- CI/CD Integration (GitHub Actions)
+- CI/CD Integratio
 - Pipeline Optimization
 - Docker-based Test Execution
-
-### ⚡ Performance Awareness
-- Basic Performance Testing (JMeter)
-- Scalability & Bottleneck Awareness
 
 ---
 
